@@ -13,7 +13,7 @@ namespace lab8
 {
   
 
-    public partial class Form1 : MetroSetForm
+    public partial class Form1 : MetroSetForm // ТЕСТ ПУЛА
     {
         Number16 A, B;
         Button[] Operation = new Button[10];
